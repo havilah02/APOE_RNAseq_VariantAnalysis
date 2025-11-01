@@ -14,3 +14,9 @@ Using publicly available human brain RNA-Seq and WGS data, I quantify APOE expre
 2. The ε4 allele (Cys→Arg at rs429358) increases Alzheimer’s risk; ε2 appears protective.
 3. Investigating both expression and variants can uncover multi-omic insights into APOE-driven pathology.
 
+### Disease Design
+| Condition     | Example SRR IDs       | Purpose             |
+| ------------- | --------------------- | ------------------- |
+| Alzheimer’s   | SRR1215813–SRR1215822 | disease group       |
+| Old Control   | SRR1215823–SRR1215833 | age-matched control |
+| Young Control | SRR1215834–SRR1215843 | baseline            |
